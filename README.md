@@ -1,5 +1,6 @@
 ## Hi there 👋 sou o Joáo
 
+oi meu nome e joáo pedr sou estudante do alura tenho 16 anos e gosto de aprender e evoluir e aprimorar mais as minhas habilidades
 <!--
 **jpoooooobrabo/jpoooooobrabo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
